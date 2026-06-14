@@ -1,6 +1,7 @@
 streamlit
 groq
-gtts
+gTTS
 scikit-learn
 numpy
 SpeechRecognition
+pydub
